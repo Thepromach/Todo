@@ -7,7 +7,7 @@ Simple todo list that can be used on the command line or as GUI application.
 
 OR
 
-* Download Todo.jar and run
+* Download [Todo.jar](https://hostr.co/eUs7zwCi5o0v) and run
 
 
 # Usage
